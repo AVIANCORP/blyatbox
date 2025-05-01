@@ -3,7 +3,7 @@
 <h6>A quick and dirty filedropper</h6>
 <br>
 <h2>Setup</h2>
-Just set up a php server and copy the files into the home directory. After that just make a folder and name it ```uploads```.
+Just set up a php server and copy the files into the home directory. After that just make a folder and name it "\uploads".
 Bam! You got a working web server
 <br><br>
 <h1>Screenshots</h1>
